@@ -12,7 +12,7 @@ Workflows
 
 * [10.000ft Scripts](https://github.com/jceelen/alfred-10000ft-scripts) - The aim is to make working with 10.000ft faster.
 
-* [8 Ball](https://github.com/cheniel/alfred-8ball) - Magic 8 Ball Alfred Workflow that gives a random response from a set of 20
+* [8 Ball](http://www.packal.org/workflow/8-ball) - Magic 8 Ball Alfred Workflow that gives a random response from a set of 20
 
 * [Alfred Kat](https://github.com/godbout/alfred-kat) - Look for magnet links on KickAssTorrents
 
