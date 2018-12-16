@@ -1,10 +1,11 @@
 A collection of Alfred3 compatible workflows.
+------
+
 Sharing, suggestions and contributions are always welcome!
 
-
 Workflows
------
-
+------
+-
 * [.icns icon setter](https://github.com/packal/repository/raw/master/com.edwin.selficon/set_as_icon_to_self.alfredworkflow) - Set the icon of a ".icns" file by using the actual file
 
 * [10.000ft Scripts](https://github.com/packal/repository/raw/master/10000ft.scripts/10.000ft-scripts-0.5.3.alfredworkflow) - The aim is to make working with 10.000ft faster.
@@ -12,6 +13,8 @@ Workflows
 * [17Hats](https://github.com/packal/repository/raw/master/com.17hats.duarteharris/17hats.alfredworkflow) - A simple hotkey and keyword to access your 17hats areas
 
 * [17Track](https://github.com/packal/repository/raw/master/com.17Track/17track.alfredworkflow) - Workflow used to track your shipments on 17Track.net
+
+* [1Password Open](https://github.com/packal/repository/raw/master/com.alfredapp.renegaed.1password/1password.alfredworkflow) - Search and Open 1Password
 
 * [8 Ball](https://github.com/packal/repository/raw/master/com.danieljchen.8ball/magic_8_ball.alfredworkflow) - Magic 8 Ball Alfred Workflow that gives a random response from a set of 20
 
@@ -34,8 +37,6 @@ Workflows
 * [Add to Fantastical](https://github.com/packal/repository/raw/master/com.dean-christensen.fantastical2/add_to_fantastical.alfredworkflow) - Add items to Fantastical 2 using plan english
 
 * [Add to Playlist](https://github.com/packal/repository/raw/master/com.sztoltz.addtoplaylist/addtoplaylist.alfredworkflow) - Add Current Song to an iTunes Playlist (or Build Playlists)
-
-* [Advanced Google and Apple Maps Search](https://github.com/packal/repository/raw/master/com.stuartryan.alfred.advancedgooglemaps/advanced_google_maps_search.alfredworkflow) - Easy searching of Google Maps or Apple Maps including directions to or from work/home/custom locations.
 
 * [Advanced Google and Apple Maps Search](https://github.com/packal/repository/raw/master/com.stuartryan.alfred.advancedgooglemaps/advanced_google_maps_search.alfredworkflow) - Easy searching of Google Maps or Apple Maps including directions to or from work/home/custom locations.
 
@@ -100,6 +101,8 @@ Workflows
 * [Alfred npm search](https://github.com/packal/repository/raw/master/com.pawelgrzybek.npm/npm_search.alfredworkflow) - Alfred workflow to search for npm package using npms API.
 
 * [Alfred-CDN-Workflow](https://github.com/packal/repository/raw/master/com.cdn.azai91/cdn.alfredworkflow) - Find CDNs quick with Alfred
+
+* [Alfred-Drive-Workflow](https://github.com/packal/repository/raw/master/com.drive.azai91/google_drive.alfredworkflow) - Browse, search and open Google Drive files from within Alfred.
 
 * [Alfred-Drive-Workflow](https://github.com/packal/repository/raw/master/com.drive.azai91/google_drive.alfredworkflow) - Browse, search and open Google Drive files from within Alfred.
 
@@ -177,8 +180,6 @@ Workflows
 
 * [Atlassian Bitbucket Server Workflow](https://github.com/packal/repository/raw/master/ch.mibex.stash.alfred-workflow/atlassian-stash-workflow-1.2.0.alfredworkflow) - Search for repositories, projects and pull requests in Atlassian Stash and Bitbucket Server.
 
-* [Atlassian Bitbucket Server Workflow](https://github.com/packal/repository/raw/master/ch.mibex.stash.alfred-workflow/atlassian-stash-workflow-1.2.0.alfredworkflow) - Search for repositories, projects and pull requests in Atlassian Stash and Bitbucket Server.
-
 * [Atmos](https://github.com/packal/repository/raw/master/com.therockmandolinist.alfred-atmos/atmos-1.0.3.alfredworkflow) - An Alfred workflow to find temperature, speed of sound, pressure, and density at queried altitude, according on International Standard Atmosphere model.
 
 * [Atom](https://github.com/packal/repository/raw/master/com.alfredapp.mdeboer.atom/atom.without.icons_.alfredworkflow) - Simple workflow that allows you to browse and open Atom projects
@@ -186,6 +187,8 @@ Workflows
 * [Atom](https://github.com/packal/repository/raw/master/com.yukihe.workflow.atom/atom.alfredworkflow) - Open Folder of current Finder by Atom
 
 * [Audio Switch](https://github.com/packal/repository/raw/master/rsampayo.audioswitch/audio_switch.alfredworkflow) - Switch between your input sources and output devices.
+
+* [Auror](https://github.com/packal/repository/raw/master/com.github.mrtrustworthy.auror/auror.alfredworkflow) - A simple Nanoleaf effect switcher
 
 * [Autojump](https://github.com/packal/repository/raw/master/com.lepht.alfred.autojump/autojump.alfredworkflow) - This is an Alfred 2 workflow to provide you a faster way to navigate your filesystem via autojump
 
@@ -244,6 +247,8 @@ Workflows
 * [Bluetooth On/Off](https://github.com/packal/repository/raw/master/leoflint.bluetoothonoff/bluetooth_onoff.alfredworkflow) - Turn bluetooth on or off
 
 * [Bluetooth Power](https://github.com/packal/repository/raw/master/com.alfredapp.bluetooth/bluetooth_power.alfredworkflow) - Alfred 3 Workflow to turn Bluetooth signal 'On' or 'Off'
+
+* [Bluetooth Switch](https://github.com/packal/repository/raw/master/com.flydev.alfred.bluetooth/bluetooth_switch.alfredworkflow) - Switch Bluetooth status
 
 * [Bluetooth Toggle](https://github.com/packal/repository/raw/master/cubb.bluetoothtoggle/bluetooth_switch.alfredworkflow) - Turn on/off Bluetooth using applescript.
 
@@ -407,6 +412,8 @@ Workflows
 
 * [Copy URL](https://github.com/packal/repository/raw/master/com.fallroot.copyurl/copyurl.alfredworkflow) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 
+* [Copy/Move To](https://github.com/packal/repository/raw/master/com.customct.CopyMoveWorkflow/copy-moveto.alfredworkflow) - A easy to expand copy/move to command in the Alfred browser.
+
 * [Countries](https://github.com/packal/repository/raw/master/com.alfredapp.adamfernung.country_information/country_information.alfredworkflow) - View Country Information
 
 * [Craft CMS Reference Search](https://github.com/packal/repository/raw/master/no.mmikkel.craftreferencesearch.alfredworkflow/craftreferencesearch.alfredworkflow) - Searches the offical Craft CMS class reference
@@ -443,6 +450,8 @@ Workflows
 
 * [Currency exchange](https://github.com/packal/repository/raw/master/io.navarro.currencyexchange/currency_exchange.alfredworkflow) - Exchange currencies
 
+* [Currency to buy](https://github.com/packal/repository/raw/master/com.paulosilva.currencytobuy/buy-currency.alfredworkflow) - This workflow provides the current value to buy some currencies like dollar, euro and pound in exchange houses at Brazil, based on information provided by Melhor Câmbio website.
+
 * [Current Ethereum Block Number](https://github.com/packal/repository/raw/master/com.firesofmay.currentethblock/current_eth_block.alfredworkflow) - Finds out the Current eth block number
 
 * [D2 - Developer Documentation](https://github.com/packal/repository/raw/master/com.nirelbaz.d2/d2.alfredworkflow) - Quick access to popular libraries, frameworks &amp; tools online developer documentation
@@ -462,6 +471,8 @@ Workflows
 * [DOI Tools](https://github.com/packal/repository/raw/master/org.buschmeier.alfred.workflow.doitools/doi-tools.alfredworkflow) - Alfred workflow for DOI queries and actions
 
 * [DS_Store Cleaner](https://github.com/packal/repository/raw/master/com.chintanbuch.alfred.cleands/ds_store_cleaner.alfredworkflow) - Clean DS_Store files from the active Filder folder
+
+* [Dark Mode Toggle](https://github.com/packal/repository/raw/master/com.sirshanksalot.dark-mode-toggle/darkmode.alfredworkflow) - Toggles Dark Mode/Light Mode in MacOS 10.10+
 
 * [Dark Sky Weather for Alfred](https://github.com/packal/repository/raw/master/com.andrewbenson.darkskyalfred/dark_sky.alfredworkflow) - Access hyper-localized weather forecasts quickly via Dark Sky
 
@@ -499,6 +510,8 @@ Workflows
 
 * [DevDocs](https://github.com/packal/repository/raw/master/com.yannickglt.alfred2.devdocs/devdocs.alfredworkflow) - Alfred workflow for devdocs.io documentations
 
+* [Devhints](https://github.com/packal/repository/raw/master/com.kevinjalbert.alfred-devhints/devhints.alfredworkflow) - Search for Devhints.io cheatsheets from Alfred
+
 * [Dial with iPhone](https://github.com/packal/repository/raw/master/carlosnz.dialer/dial_with_iphone_v1.41a.alfredworkflow) - Send a phone number from your Mac (Contact, selected text or manual entry) to your iPhone for quick-dialling. (Requires Prowl.)
 
 * [Dict.cc for Alfred](https://github.com/packal/repository/raw/master/de.nieting.DictCC/dictcc.alfredworkflow) - This Alfred workflow uses the offline translation databases provided by dict.cc.
@@ -513,6 +526,8 @@ Workflows
 
 * [Div](https://github.com/packal/repository/raw/master/com.pawelgrzybek.div/div.alfredworkflow) - Simple windows manager
 
+* [Django Docs](https://github.com/packal/repository/raw/master/org.techouse.alfred-django-docs/django-docs-v1.0.1.alfredworkflow) - Search the Django documentation using Alfred
+
 * [Django Secret Key Generator](https://github.com/packal/repository/raw/master/net.tyndyll.django-secret-key/generate_django_secret_key.alfredworkflow) - Generates a new random string suitable for use as a SECRET_KEY in Django apps
 
 * [Do a Barrel Roll!](https://github.com/packal/repository/raw/master/com.barrel.roll.shawn.patrick.rice/barrel-roll.alfredworkflow) - Make either Safari or Chrome do a Barrel Roll
@@ -521,9 +536,9 @@ Workflows
 
 * [Docker](https://github.com/packal/repository/raw/master/com.alboom.docker/docker.alfredworkflow) - Docker command utils
 
-* [Docker Cloud](https://github.com/packal/repository/raw/master/com.fairfly.dcloud/docker_cloud.alfredworkflow) - Shortcuts to quickly navigate Docker Cloud services and node clusters
-
 * [Docker Cloud](https://github.com/packal/repository/raw/master/com.jayniz.dockercloud/docker_cloud.alfredworkflow) - Quickly jump into docker cloud stacks
+
+* [Docker Cloud](https://github.com/packal/repository/raw/master/com.fairfly.dcloud/docker_cloud.alfredworkflow) - Shortcuts to quickly navigate Docker Cloud services and node clusters
 
 * [Docker Wizard](https://github.com/packal/repository/raw/master/keithcirkel.docker-wizard/docker_wizard.alfredworkflow) - Control Docker machines &amp; containers with Alfred
 
@@ -585,7 +600,11 @@ Workflows
 
 * [Empty Bird](https://github.com/packal/repository/raw/master/works.cotton.emptybird/empty_bird.alfredworkflow) - Empty cache from Whatsapp iCloud Backups in com.apple.bird
 
+* [English to Russian Transliteration](https://github.com/packal/repository/raw/master/me.alexw.translit/transliterate.alfredworkflow) - Write in English, transliterate to Russian
+
 * [Epoch](https://github.com/packal/repository/raw/master/gheardi.riccardo.epoch/epoch.alfredworkflow) - Copies epoch times to clipboard. Support seconds and milliseconds format.
+
+* [Epoch Converter](https://github.com/packal/repository/raw/master/snooze92.epoch.converter/epoch-converter-0_9_9.alfredworkflow) - Make timestamps human-readable
 
 * [Epoch Converter](https://github.com/packal/repository/raw/master/com.boulderhopkins.epoch/epoch_conversion.alfredworkflow) - Simple script to convert epochs to large type
 
@@ -625,6 +644,8 @@ Workflows
 
 * [Fast New Todoist Task](https://github.com/packal/repository/raw/master/com.davidtaboas.alfred.todoist/fast_new_todoist_task.alfredworkflow) - Creates a new task in Todoist' inbox, optional date
 
+* [Fast ascii](https://github.com/packal/repository/raw/master/com.lisongcheng.fastascii/fast_ascii.alfredworkflow) - A fast ascii converter
+
 * [Favorites](https://github.com/packal/repository/raw/master/tylereich.favorites/favorites.alfredworkflow) - Save frequently-used files and folders for quick access later
 
 * [File Creator](https://github.com/packal/repository/raw/master/com.filecreator1.0.automator/file_automator.alfredworkflow) - Creates files using pre-specified types/templates, and grows as you go. Current types (.txt, .doc, .csv, .ppt, .cs, .js, .html, .css)
@@ -646,6 +667,8 @@ Workflows
 * [Firechrome](https://github.com/packal/repository/raw/master/de.leenno.firechrome/firechrome.alfredworkflow) - Open Chrome's current tab in Firefox or vice versa
 
 * [Fish Toolbox](https://github.com/packal/repository/raw/master/com.customct.FishToolbox/fishtoolbox.alfredworkflow) - A list of functions for working with the Fish shell.
+
+* [Flask Docs](https://github.com/packal/repository/raw/master/org.techouse.flask-docs/flask-docs-v1.0.0.alfredworkflow) - Search the Flask documentation using Alfred and Algolia
 
 * [FlatUIColors picker](https://github.com/packal/repository/raw/master/ch.mi-ca.flatuicolors/flatuicolors.alfredworkflow) - Help to get flatuicolors.com hexa code by just typing : flat
 
@@ -681,7 +704,9 @@ Workflows
 
 * [Forecast](https://github.com/packal/repository/raw/master/com.kejadlen.forecast/forecast.alfredworkflow) - Checks the weather using Forecast.io
 
-* [FormatSize](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.formatsize/formatsize.alfredworkflow) - Reference paper sizes and device viewport widths
+* [Format SQL Query](https://github.com/packal/repository/raw/master/com.no-technology-no-life.fromat.sql.query/format_sql_query.alfredworkflow) - format SQL Query
+
+* [FormatSize](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.formatsize/formatsize.alfredworkflow) - Reference paper sizes and device resolutions
 
 * [Forvo](https://github.com/packal/repository/raw/master/zmin.forvo/forvo.alfredworkflow) - A pronunciation workflow based on Forvo.com.
 
@@ -787,6 +812,8 @@ Workflows
 
 * [Google Play Music Controls for Chrome](https://github.com/packal/repository/raw/master/com.jleyrer.google_play_chrome/alfred_google_play_chrome_controls.alfredworkflow) - Controls music playback in an open Google Play tab in Chrome.
 
+* [Google Redirect Cleaner](https://github.com/packal/repository/raw/master/com.bogdanvitoc.google-redirect-strip-alfred-workflow/google_redirect_cleaner.alfredworkflow) - removes google tracking from search result URLs
+
 * [Google Selected Text](https://github.com/packal/repository/raw/master/com.benknight.googleselectedtext/google_selected_text.alfredworkflow) - Use this one to highlight words, then hit the hotkey to automatically open a new browser tab with the Google search results for the selection as the search query.
 
 * [Google Similar Image Search](https://github.com/packal/repository/raw/master/net.deanishe.alfred-google-similar-images/google_similar_images-1.0.alfredworkflow) - Google Image search based on image files on your computer
@@ -810,6 +837,8 @@ Workflows
 * [HTML Special Characters](https://github.com/packal/repository/raw/master/com.spr.htmlspecialcharacters/html_special_characters.alfredworkflow) - Encodes a string with HTML special characters
 
 * [HTTP Status Code](https://github.com/packal/repository/raw/master/io.github.ilstar.httpcode/http_status_code.alfredworkflow) - checkout http status code meanings
+
+* [HTTP Status Codes](https://github.com/packal/repository/raw/master/uk.co.upsync.http/http_status_codes.alfredworkflow) - Returns HTTP status code information on the https://httpstatuses.com/ website
 
 * [HackerBoard](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.hackerboard/hackerboard.alfredworkflow) - Front page news from web community sources
 
@@ -840,6 +869,8 @@ Workflows
 * [Hidden Files](https://github.com/packal/repository/raw/master/com.andyryan.hiddenfiles/hidden_files.alfredworkflow) - This wokflow shows or hides hidden files in Finder
 
 * [Hide Desktop](https://github.com/packal/repository/raw/master/com.alfred2.workflow.hidedesktop/hide_desktop.alfredworkflow) - Hide and Unhide Desktop
+
+* [Home Assistant](https://github.com/packal/repository/raw/master/com.browall.home_assistant.automation/home_assistant.alfredworkflow) - You will be able to control you lights, get sensor information, trigger automations and look for your devices in device tracker. All in Home Assistance
 
 * [Home Assistant](https://github.com/packal/repository/raw/master/com.browall.home_assistant.automation/home_assistant.alfredworkflow) - You will be able to control you lights, get sensor information, trigger automations and look for your devices in device tracker. All in Home Assistance
 
@@ -975,6 +1006,8 @@ Workflows
 
 * [Laravel Nova Docs](https://github.com/packal/repository/raw/master/com.billrclark.novasearch/nova.docs_.alfredworkflow) - An Alfred Workflow to Quickly Search the Laravel Nova Documentation
 
+* [Laravel Nova Documentation](https://github.com/packal/repository/raw/master/org.techouse.nova-docs/nova-docs-v1.0.0.alfredworkflow) - Search the Laravel Nova documentation using Alfred.
+
 * [Laser SSH](https://github.com/packal/repository/raw/master/com.paperelectron.alfred.laserssh/laser_ssh.alfredworkflow) - Choose SSH connection from filterable list
 
 * [Last 2 Imgur](https://github.com/packal/repository/raw/master/in.aviaryan.last2imgur/last_2_imgur.alfredworkflow) - Alfred workflow to upload the last screenshot taken to Imgur + (delete and minify image)
@@ -1017,9 +1050,9 @@ Workflows
 
 * [LocalPort](https://github.com/packal/repository/raw/master/in.fech.localport/localport_v1.0.0.alfredworkflow) - Open the local with port address
 
-* [Localhost](https://github.com/packal/repository/raw/master/com.kwtucker.localhost/local_host.alfredworkflow) - Opens http://localhost: with your port passed in as a argument.
-
 * [Localhost](https://github.com/packal/repository/raw/master/com.victorhazbun.localhost/localhost_1_1.alfredworkflow) - Open localhost at specified port
+
+* [Localhost](https://github.com/packal/repository/raw/master/com.kwtucker.localhost/local_host.alfredworkflow) - Opens http://localhost: with your port passed in as a argument.
 
 * [Lock 1Password](https://github.com/packal/repository/raw/master/com.fooligan.lock1password/lock_1password.alfredworkflow) - An Alfred command to lock 1Password
 
@@ -1027,11 +1060,11 @@ Workflows
 
 * [Lock screen with Knock](https://github.com/packal/repository/raw/master/net.lemonlee.knockscreenlocker/lock_screen_with_knock.alfredworkflow) - Lock your screen with Knock
 
+* [Lorem Ipsum](https://github.com/packal/repository/raw/master/com.tillkruss.loremipsum/lorem.ipsum_.alfredworkflow) - An ultra-fast Lorem Ipsum text generator.
+
 * [Lorem Ipsum](https://github.com/packal/repository/raw/master/com.robert-arellano.lorem-ipsum/lorem_ipsum.alfredworkflow) - Generate lorem ipsum text from Alfred
 
 * [Lorem Ipsum](https://github.com/packal/repository/raw/master/com.alexchantastic.loremipsum/alfred-lipsum-workflow.alfredworkflow) - Generate dummy lorem ipsum text.
-
-* [Lorem Ipsum](https://github.com/packal/repository/raw/master/com.tillkruss.loremipsum/lorem.ipsum_.alfredworkflow) - An ultra-fast Lorem Ipsum text generator.
 
 * [Love in iTunes](https://github.com/packal/repository/raw/master/com.eightvine.ituneslove/22love22_track_in_itunes.alfredworkflow) - Sets current track to "loved" in iTunes, alerts user if track already loved.
 
@@ -1104,6 +1137,8 @@ Workflows
 * [Mianliao](https://github.com/packal/repository/raw/master/net.whtsky.mianliao/mianliao.alfredworkflow) - Help you log into Mianliao Network.
 
 * [Microsoft Remote Desktop](https://github.com/packal/repository/raw/master/com.tedwise.rdp/microsoft_remote_desktop.alfredworkflow) - Connect to a Microsoft Remote Desktop (RDP) desktop.
+
+* [Microsoft Translate Alfred Workflow](https://github.com/packal/repository/raw/master/com.no-technology-no-life.microsoft.translate/trs.alfredworkflow) - This is workflow application using Microsoft Translator Text API.
 
 * [Minecraft](https://github.com/packal/repository/raw/master/de.oliverconzen.termicraft/minecraft.alfredworkflow) - Launches the Minecraft Launcher with System Java instead of Apple Java 6
 
@@ -1233,6 +1268,8 @@ Workflows
 
 * [Open YMLP in Chrome](https://github.com/packal/repository/raw/master/ma7.me.YMLP/open_ymlp_in_chrome.alfredworkflow) - A workflow to open the mail list site 'YMLP' in Google Chrome
 
+* [Open active tab in Pennywise](https://github.com/packal/repository/raw/master/Open.active.tab.in.Pennywise.URL.alfredworkflow/open_active_tab_in_pennywise_url.alfredworkflow) - Open active tab in Pennywise
+
 * [Open all my files](https://github.com/packal/repository/raw/master/com.amfbyallan/all_my_files.alfredworkflow) - A means to open the "all my files" folder when any window has focus.
 
 * [Open clipboard in browser](https://github.com/packal/repository/raw/master/com.somebits.openclipurl/open_clipboard_in_browser.alfredworkflow) - Opens a URL or else performs a Google search
@@ -1295,13 +1332,13 @@ Workflows
 
 * [Passphrase Generator](https://github.com/packal/repository/raw/master/com.shawn.patrick.rice.passphrase.gen/passphrase_generator.alfredworkflow) - Create random passphrases with Alfred
 
-* [Password Generator](https://github.com/packal/repository/raw/master/com.alfred.field.generator.password/password_generator.alfredworkflow) - Generate secure password suggestions
-
-* [Password Generator](https://github.com/packal/repository/raw/master/es.nyr.password/password_generator.alfredworkflow) - Simple password generator
-
 * [Password Generator](https://github.com/packal/repository/raw/master/com.nicholaspufal.passwordgenerator/password_generator.alfredworkflow) - A simple password generator that doesn't rely on having an active internet connection. It's simple, fast and efficient. By default it generates a password with 15 characters - but you can overwrite this setting by providing a number when calling it.
 
 * [Password Generator](https://github.com/packal/repository/raw/master/org.kollectiv.genpass/genpass.alfredworkflow) - Generate passwords from strings
+
+* [Password Generator](https://github.com/packal/repository/raw/master/es.nyr.password/password_generator.alfredworkflow) - Simple password generator
+
+* [Password Generator](https://github.com/packal/repository/raw/master/com.alfred.field.generator.password/password_generator.alfredworkflow) - Generate secure password suggestions
 
 * [PasswordPusher](https://github.com/packal/repository/raw/master/com.pglombardo.pwpush/passwordpusher.alfredworkflow) - Easily and quickly push passwords to pwpush.com
 
@@ -1362,6 +1399,8 @@ Workflows
 * [Powerthesaurus Search](https://github.com/packal/repository/raw/master/me.clarencecastillo.alfred-powerthesaurus/powerthesaurus-1.2.alfredworkflow) - Search Powerthesaurus synonyms and antonyms from Alfred
 
 * [Precise Age Calculator](https://github.com/packal/repository/raw/master/com.chintanbuch.alfred.agecalculator/age_calculator.alfredworkflow) - Check age like # of years, months, days &amp; time... from the given birth date
+
+* [Pritunl Manager](https://github.com/packal/repository/raw/master/cghdev.alfred-pritunl/pritunl-manager-1.3.alfredworkflow) - Manage your Pritunl VPN connections from Alfred.
 
 * [Private Browsing](https://github.com/packal/repository/raw/master/com.limamedeiros.alfred.private/private_browsing.alfredworkflow) - Opens Safari's current tab in Private Browsing
 
@@ -1443,7 +1482,7 @@ Workflows
 
 * [Recent files in Folder](https://github.com/packal/repository/raw/master/com.apple.alfred.workflow.recentfolder/recent_files_in_folder.alfredworkflow) - Shows recent files in a folder and opens the file, reveal in Finder or share via Dropox (requires WF http://www.packal.org/workflow/drop)
 
-* [RecentDownloads](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.recentdownloads/recentdownloads.alfredworkflow) - List and act on the contents of your ~/Downloads directory
+* [RecentDownloads](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.recentdownloads/recentdownloads.alfredworkflow) - List and act on the contents of a directory
 
 * [RecommendationNation](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.recommendationnation/recommendationnation.alfredworkflow) - Keep a contextual list of recommendations
 
@@ -1487,9 +1526,9 @@ Workflows
 
 * [RespondQuickly](https://github.com/packal/repository/raw/master/com.vitorgalvao.alfred.respondquickly/respondquickly.alfredworkflow) - Convert selected text to a QR code
 
-* [Restart App](https://github.com/packal/repository/raw/master/com.sulaiman.restartapp/restart_app.alfredworkflow) - A simple workflow designed for apps to be relaunched/restarted or quit.
-
 * [Restart App](https://github.com/packal/repository/raw/master/com.renegaed.restart-app/restart_app.alfredworkflow) - Restart a currently running App
+
+* [Restart App](https://github.com/packal/repository/raw/master/com.sulaiman.restartapp/restart_app.alfredworkflow) - A simple workflow designed for apps to be relaunched/restarted or quit.
 
 * [Restart frontmost application](https://github.com/packal/repository/raw/master/com.sebas89.restartapp/restart_frontmost_application.alfredworkflow) - Type 'rs' and then press enter to close and restart your frontmost application.
 
@@ -1541,9 +1580,9 @@ Workflows
 
 * [SShot](https://github.com/packal/repository/raw/master/com.pawelgrzybek.sshot/sshot.alfredworkflow) - Change a screenshot extension
 
-* [Safari History Search](https://github.com/packal/repository/raw/master/com.rx2130.alfred.hsi/search-safari-history-1.0.alfredworkflow) - Search Safari Browse History from Alfred
-
 * [Safari History Search](https://github.com/packal/repository/raw/master/com.akaralar.safariHistorySearch/safari_history_search.alfredworkflow) - Alfred workflow to search Safari history
+
+* [Safari History Search](https://github.com/packal/repository/raw/master/com.rx2130.alfred.hsi/search-safari-history-1.0.alfredworkflow) - Search Safari Browse History from Alfred
 
 * [Safari Reading List](https://github.com/packal/repository/raw/master/com.targumanu.readinglist/reading_list.alfredworkflow) - Search, open and add Safari reading list items
 
@@ -1559,9 +1598,13 @@ Workflows
 
 * [Say a word](https://github.com/packal/repository/raw/master/jinkunw.say/say.alfredworkflow) - Pronounce a word with Audio Pronunciation Service from Google
 
+* [Say command](https://github.com/packal/repository/raw/master/com.lisongcheng.say/say_command.alfredworkflow) - Allows terminal to read out something
+
 * [Say it with GIFs](https://github.com/packal/repository/raw/master/net.deanishe.alfred.gifs/say_it_with_gifs-1.0.alfredworkflow) - Browse your horde of GIFs and get their URLs
 
 * [Scratchpad Workflow](https://github.com/packal/repository/raw/master/com.customct.ScratchPad/scratchpad.alfredworkflow) - A workflow to use the Alfred Prompt as a scratchpad.
+
+* [Scrcpy Android](https://github.com/packal/repository/raw/master/com.afzaln.scrcpy/alfred-scrcpy.alfredworkflow) - Alfred workflow for choosing an Android device to start scrcpy with
 
 * [Screen Shot](https://github.com/packal/repository/raw/master/com.24say.workflowtitle/screen_shot.alfredworkflow) - Take Screen Shot with Preview
 
@@ -1591,7 +1634,7 @@ Workflows
 
 * [Search Maven Repository](https://github.com/packal/repository/raw/master/com.tedwise.mavenrepository/maven_repository.alfredworkflow) - Search the maven repository.
 
-* [Search Omnifocus](https://github.com/packal/repository/raw/master/net.rhydlewis.alfred.searchomnifocus/search_omnifocus_v1.2.4.alfredworkflow) - This is a workflow that performs free text searches on OmniFocus data.
+* [Search Omnifocus](https://github.com/packal/repository/raw/master/net.rhydlewis.alfred.searchomnifocus/search_omnifocus_v2.0.2.alfredworkflow) - This is a workflow that performs free text searches on OmniFocus data.
 
 * [Search Opera Bookmarks](https://github.com/packal/repository/raw/master/com.bugaev.opera.bookmarks.search/com.bugaev.opera_.bookmarks.search.alfredworkflow) - A workflow to search Opera browser bookmarks with Alfred.
 
@@ -1615,11 +1658,13 @@ Workflows
 
 * [Secure Empty Trash](https://github.com/packal/repository/raw/master/com.raster.secureempty/secure_empty_trash_v1.alfredworkflow) - Securely empties the trash
 
-* [Secure Password Generator](https://github.com/packal/repository/raw/master/net.deanishe.alfred-pwgen/password-generator-2.1.alfredworkflow) - Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.
-
 * [Secure Password Generator](https://github.com/packal/repository/raw/master/com.camerontod.passwordgen/password_generator.alfredworkflow) - Generates passwords that score highly in zxcvbn and copies them to clipboard.
 
+* [Secure Password Generator](https://github.com/packal/repository/raw/master/net.deanishe.alfred-pwgen/password-generator-2.1.alfredworkflow) - Generate secure random passwords from Alfred. Uses /dev/urandom as source of entropy.
+
 * [Secure SHell](https://github.com/packal/repository/raw/master/net.deanishe.alfred-ssh/secure-shell-0.7.1.alfredworkflow) - Open SSH/SFTP/mosh connections from Alfred 3 with autosuggestion of known hosts
+
+* [Selected text language switcher](https://github.com/packal/repository/raw/master/io.humanfarm/typed_characters_language_switcher.alfredworkflow) - Switches language of selected text (currently russian to english and english to russian)
 
 * [SelfControl for Alfred](https://github.com/packal/repository/raw/master/com.jyotirmoydas.selfcontrol/selfcontrol_for_alfred.alfredworkflow) - Activate SelfControl and add URLs to the blocklist from Alfred!
 
@@ -1647,6 +1692,8 @@ Workflows
 
 * [Shorten URL](https://github.com/packal/repository/raw/master/es.nyr.tinyurl/shorten_url.alfredworkflow) - Create a short URL with TinyURL.com
 
+* [Should I do it](https://github.com/packal/repository/raw/master/com.lisongcheng.should/should.alfredworkflow) - Discover the philosophical question.
+
 * [Should I watch this movie advanced?](https://github.com/packal/repository/raw/master/com.renegaed.should-i-watch-this-movie-advanced/should_i_watch_this_movie_advanced.alfredworkflow) - Search YouTube for movie trailer, open IMDB &amp; Rotten Tomatoes page
 
 * [Show Fantastical 2's Main Window](https://github.com/packal/repository/raw/master/com.pehein.Fantastical2MW/show_fantastical_2s_main_window.alfredworkflow) - Shows the main window for Fantastical 2
@@ -1668,6 +1715,8 @@ Workflows
 * [Simple Screen Capture](https://github.com/packal/repository/raw/master/nu.fickla.SimpleScreenCapture/simple_screen_capture.alfredworkflow) - Screen Capture singel window
 
 * [Simple Screenshots](https://github.com/packal/repository/raw/master/com.valrus.screenshot.simple/simple_screenshots.alfredworkflow) - Take screenshots and that's it.
+
+* [Simple TimeZone](https://github.com/packal/repository/raw/master/com.bhishanpdl.simple_timezone/simple_timezones.alfredworkflow) - Display Current Times of World Cities of Your Choice
 
 * [Simple Timer](https://github.com/packal/repository/raw/master/com.eunjae.alfred.simpletimer/simple_timer.alfredworkflow) - A very simple timer
 
@@ -1708,6 +1757,8 @@ Workflows
 * [Spectacle](https://github.com/packal/repository/raw/master/com.apple.alfred2.workflow.spectacle/spectacle.alfredworkflow) - Control App windows with Spectacle
 
 * [SpeedTest](https://github.com/packal/repository/raw/master/com.chusiang.speedtest/speedtest.alfredworkflow) - Run SpeedTest with speedtest-cli.
+
+* [SpeedTest to Slack](https://github.com/packal/repository/raw/master/com.no-technology-no-life.speedtest-slack/speedtest_to_slack.alfredworkflow) - Notify Slack of Speed test results
 
 * [Speedtest](https://github.com/packal/repository/raw/master/pro.elms.paul.speedtest/speedtest.alfredworkflow) - Measure internet speed with speedtest.net service
 
@@ -1857,13 +1908,13 @@ Workflows
 
 * [The Hit List](https://github.com/packal/repository/raw/master/com.tedwise.hitlist/the_hit_list.alfredworkflow) - Create new tasks in The Hit List
 
-* [Things](https://github.com/packal/repository/raw/master/com.joshalbrechtsen.alfred.things/things.alfredworkflow) - Things 3 Workflow with Deep Linking
+* [Things](https://github.com/packal/repository/raw/master/hu.fns.things/things.alfredworkflow) - Things one-line task generation.
 
-* [Things](https://github.com/packal/repository/raw/master/com.xilopaint.alfredapp.things/things.alfredworkflow) - Interact with Things 3 using Alfred
+* [Things](https://github.com/packal/repository/raw/master/com.joshalbrechtsen.alfred.things/things.alfredworkflow) - Things 3 Workflow with Deep Linking
 
 * [Things](https://github.com/packal/repository/raw/master/com.pawelgrzybek.things/things.alfredworkflow) - Manage your Things list with ease.
 
-* [Things](https://github.com/packal/repository/raw/master/hu.fns.things/things.alfredworkflow) - Things one-line task generation.
+* [Things](https://github.com/packal/repository/raw/master/com.xilopaint.alfredapp.things/things.alfredworkflow) - Interact with Things 3 using Alfred
 
 * [Thumbtack 2](https://github.com/packal/repository/raw/master/com.ReactivCode.Thumbtack/thumbtack.alfredworkflow) - Search, Add and Delete Pinboard items with Thumbtack 2
 
@@ -1915,9 +1966,9 @@ Workflows
 
 * [Toggle Font Smoothing](https://github.com/packal/repository/raw/master/com.bradvrolijk.alfredfontsmoothing/toggle_font_smoothing.alfredworkflow) - Enable/Disable macOS Font Smoothing
 
-* [Toggle Function Keys](https://github.com/packal/repository/raw/master/com.tanseycg.togglefunctionkeys/toggle_function_keys.alfredworkflow) - Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.
-
 * [Toggle Function Keys](https://github.com/packal/repository/raw/master/uk.co.clokey.alfredworkflow/toggle_function_keys.alfredworkflow) - Toggle the fn key globally
+
+* [Toggle Function Keys](https://github.com/packal/repository/raw/master/com.tanseycg.togglefunctionkeys/toggle_function_keys.alfredworkflow) - Toggles Function Keys in OS X using Apple Script that includes a remote trigger for use with Alfred Remote.
 
 * [Toggle Hidden](https://github.com/packal/repository/raw/master/com.EgregiousClam.togglehidden/toggle_hidden.alfredworkflow) - Toggle the Display of Hidden Files in Finder
 
@@ -1945,6 +1996,8 @@ Workflows
 
 * [Torrent](https://github.com/packal/repository/raw/master/com.bowinther.torrent/torrent.alfredworkflow) - Search for torrents, choose among the results in Alfred and start the download in uTorrent
 
+* [Tower Repositories](https://github.com/packal/repository/raw/master/net.level3studios.alfredtower/alfred_towerrepo.alfredworkflow) - View/Open Tower Repositories
+
 * [Tower Repositories](https://github.com/packal/repository/raw/master/net.cjlucas.alfred.tower/tower-alfred-workflow.alfredworkflow) - Quickly access your Tower git repositories
 
 * [Trakt for Alfred](https://github.com/packal/repository/raw/master/de.timbooo.traktforalfred/trakt_for_alfred.alfredworkflow) - Search trakt.tv, check out trends or manager your watchlists and libraries...
@@ -1952,6 +2005,8 @@ Workflows
 * [Translate](https://github.com/packal/repository/raw/master/com.spr.translate/translate.alfredworkflow) - Utilize any of Google Translate's languages
 
 * [Translate API](https://github.com/packal/repository/raw/master/com.spr.translate.api/translate_api.alfredworkflow) - Use the Official Google Translate API in Alfred
+
+* [Translate Workflow - use Google or Microsoft Translate](https://github.com/packal/repository/raw/master/com.sozora.google-translate/translate-workflow.alfredworkflow) - Translate words or phrases using Google or Microsoft Translate.
 
 * [Translate Workflow - use Google or Microsoft Translate](https://github.com/packal/repository/raw/master/com.sozora.google-translate/translate-workflow.alfredworkflow) - Translate words or phrases using Google or Microsoft Translate.
 
@@ -2073,7 +2128,7 @@ Workflows
 
 * [Watermarker 2](https://github.com/packal/repository/raw/master/com.reactivcode.inc.watermarker/watermarker.alfredworkflow) - Watermark images using the new Watermarker 2 app
 
-* [Weather](https://github.com/packal/repository/raw/master/com.jason0x43.alfred-weather/alfred-weather.alfredworkflow) - Display weather forecasts from Weather Underground and Dark Sky
+* [Weather](https://github.com/packal/repository/raw/master/com.jason0x43.alfred-weather/alfred-weather-1.5.0.alfredworkflow) - Display weather forecasts from Weather Underground and Dark Sky
 
 * [Web Server](https://github.com/packal/repository/raw/master/fmanoeli.webserver/web_server.alfredworkflow) - Easily start a web server and add files to it.
 
@@ -2098,6 +2153,8 @@ Workflows
 * [Wi-Fi Restart](https://github.com/packal/repository/raw/master/me.smarsh.wifi-restart/wi-fi_restart.alfredworkflow) - Turns it off and on again.
 
 * [WiFi Control](https://github.com/packal/repository/raw/master/cx.dave.alfred.wifi/wifi_control.alfredworkflow) - Alfred workflow to turn WiFi on/off
+
+* [Wikify](https://github.com/packal/repository/raw/master/com.hackademic.wikify/wikify.alfredworkflow) - Your little Evernote Wiki-Helper
 
 * [Wikify](https://github.com/packal/repository/raw/master/com.hackademic.wikify/wikify.alfredworkflow) - Your little Evernote Wiki-Helper
 
@@ -2171,6 +2228,8 @@ Workflows
 
 * [academic search](https://github.com/packal/repository/raw/master/none/search_google_scholar_and_jstor.alfredworkflow) - need some help figure out how to have alfred search highlighted text in an academic website
 
+* [adb](https://github.com/packal/repository/raw/master/xyz.jienan.adb/adb.alfredworkflow) - Android ADB
+
 * [adsinspire](https://github.com/packal/repository/raw/master/adsinspire.TuahZh/adsinspire.alfredworkflow) - Search papers on INSPIRE or ADS
 
 * [alForge](https://github.com/packal/repository/raw/master/com.vmitchell85.alforge/alforge.alfredworkflow) - Laravel Forge Commands
@@ -2183,6 +2242,8 @@ Workflows
 
 * [alfred-change-sound-output](https://github.com/packal/repository/raw/master/com.cakmet14.change_sound/change_sound_output.alfredworkflow) - change sound output using aalfred
 
+* [alfred-cron](https://github.com/packal/repository/raw/master/com.crispgm.alfred_cron/alfred-cron.alfredworkflow) - Convert Cron expression to human readable text.
+
 * [alfred-fanfou](https://github.com/packal/repository/raw/master/me.litomore.fanfou/alfred-fanfou.alfredworkflow) - Alfred 3 workflow for Fanfou
 
 * [alfred-file-checksums](https://github.com/packal/repository/raw/master/cz.vookimedlo.alfred.checksums/filechecksums.alfredworkflow) - Alfred 3 workflow for computing file checksums.
@@ -2192,6 +2253,8 @@ Workflows
 * [alfred-pinboard](https://github.com/packal/repository/raw/master/com.jmjeong.alfredv2.pinboard/pinboard.alfredworkflow) - Yet another alfred-pinboard workflow. It provides INSTANT pinboard search and various function
 
 * [alfred-pokedex](https://github.com/packal/repository/raw/master/com.vutran.pokedex/pokedex.alfredworkflow) - Lookup Pokemon Information
+
+* [alfred-pycharm](https://github.com/packal/repository/raw/master/com.orf.dash-intellij/alfred-pycharm.alfredworkflow) - Quickly open a Pycharm project through Alfred
 
 * [alfred-workflow-todoist](https://github.com/packal/repository/raw/master/com.alfred-workflow-todoist/alfred_workflow_todoist.alfredworkflow) - Add tasks to your Todoist inbox or list upcoming tasks straight from Alfred.
 
@@ -2216,6 +2279,8 @@ Workflows
 * [awscli S3 Help](https://github.com/packal/repository/raw/master/com.joeymink.s3help/s3_help.alfredworkflow) - Easy access to documentation for the S3 commands in awscli
 
 * [cargo](https://github.com/packal/repository/raw/master/com.github.mkamakura.cargo/cargo.alfredworkflow) - Search for cargo packages
+
+* [cd to Current Path](https://github.com/packal/repository/raw/master/com.bhishanpdl.cd_to_current_path/cd_to_current_path.alfredworkflow) - Open a new terminal and cd to current path of Finder
 
 * [clc](https://github.com/packal/repository/raw/master/in.aviaryan.clc/clc.alfredworkflow) - Powerful Calculator for Alfred
 
@@ -2269,9 +2334,9 @@ Workflows
 
 * [iMessage Workflow](https://github.com/packal/repository/raw/master/nc.workflow.imessage/imessage.alfredworkflow) - A workflow that allows Alfred to interact with all parts of iMessage
 
-* [iOS Simulator](https://github.com/packal/repository/raw/master/com.ricardosampayo.iossimulator/ios_simulator.alfredworkflow) - A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.
-
 * [iOS Simulator](https://github.com/packal/repository/raw/master/com.buttered-cat.alfred-workflow.iOSSimulator/ios_simulator_v1.3.1.alfredworkflow) - Workflow for finding simulator app data folders, erasing apps and more
+
+* [iOS Simulator](https://github.com/packal/repository/raw/master/com.ricardosampayo.iossimulator/ios_simulator.alfredworkflow) - A simple workflow for fast access to your iOS Simulators and apps. It saves you time during iOS development when you have to deal with Simulators' folder structure.
 
 * [iPhone Tether Toggle](https://github.com/packal/repository/raw/master/net.lemonlee.iphonetethertoggle/iphone_tethering_toggle.alfredworkflow) - Toggle tethering with your iPhone on / off
 
@@ -2345,9 +2410,9 @@ Workflows
 
 * [opencc (chs ↔ cht)](https://github.com/packal/repository/raw/master/com.shouya.opencc/opencc.alfredworkflow) - convert text between simplified and traditional chinese (and copy)
 
-* [pass](https://github.com/packal/repository/raw/master/org.passwordstore.pass/pass-0.3.1.alfredworkflow) - Provide a minimal wrapper over the pass password manager (passwordstore.org)
-
 * [pass](https://github.com/packal/repository/raw/master/pl.intrepidus.pass/pass.alfredworkflow) - Pass (the standard Unix password manager) integration
+
+* [pass](https://github.com/packal/repository/raw/master/org.passwordstore.pass/pass-0.3.1.alfredworkflow) - Provide a minimal wrapper over the pass password manager (passwordstore.org)
 
 * [pg](https://github.com/packal/repository/raw/master/com.importre.alfred.pg/pg.alfredworkflow) - Search .pro(Proguard) files
 
@@ -2412,6 +2477,10 @@ Workflows
 * [vbox](https://github.com/packal/repository/raw/master/com.cnsworder.vbox/vbox.alfredworkflow) - vbox control
 
 * [wymusic](https://github.com/packal/repository/raw/master/com.khanzhang.wymusic/wymusic.alfredworkflow) - 一键搜索网易云音乐
+
+* [xcdd](https://github.com/packal/repository/raw/master/derivedData.xc.com/xcdd.alfredworkflow) - Remove Xcode DeriveData for path '~/Library/Developer/Xcode/DerivedData/*'
+
+* [xkcd](https://github.com/packal/repository/raw/master/jienan.xyz.xkcd/xkcd-1.2.3.alfredworkflow) - Browse and search latest and hot xkcd comics and what if articles
 
 * [İETT Next Departures](https://github.com/packal/repository/raw/master/com.ttuygun.alfred-iett-workflow/iett_next_departures.alfredworkflow) - This alfred workflow shows next departures from beautiful Istanbul's bus service İETT. It uses data from İETT's website.
 
